@@ -17,5 +17,11 @@ This Streamlit application summarizes YouTube videos by extracting their transcr
 1. **Clone the Repository** (if applicable)
    
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/HimanshuSinghRaghav/Youtube_video_Summeriser.git
+   cd Youtube_video_Summeriser
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install streamlit google-generativeai python-dotenv youtube_transcript_api
+   streamlit run app.py
+
+
