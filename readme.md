@@ -2,6 +2,10 @@
 
 This Streamlit application summarizes YouTube videos by extracting their transcripts and using Google's Generative AI to create a concise summary. The application is designed with a simple user interface allowing users to input a YouTube URL and their Google API key to get a summary of the video's content.
 
+## How It Works
+![YouTube Video Summarizer](image/howitworks.png) 
+
+
 ## Setup
 
 ### Prerequisites
