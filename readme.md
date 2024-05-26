@@ -15,6 +15,7 @@ This Streamlit application summarizes YouTube videos by extracting their transcr
 - `google-generativeai` library
 - `python-dotenv` library
 - `youtube_transcript_api` library
+- `GOOGLE_API_KAY` https://aistudio.google.com/app/apikey
 
 ### Installation
 
